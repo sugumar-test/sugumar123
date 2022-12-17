@@ -28,7 +28,4 @@ public class ArmstrongNumber {
 		num.checkNumberISArmstrong();
 	}
 
-	private void met() {
-System.out.println("super");
-	}
 }
