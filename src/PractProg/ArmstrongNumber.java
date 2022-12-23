@@ -27,4 +27,13 @@ public class ArmstrongNumber {
 		ArmstrongNumber num = new ArmstrongNumber();
 		num.checkNumberISArmstrong();
 	}
+	
+	public static void ptr() {
+		System.out.println("----------------");
+	}
+	
+	public static void good() {
+		System.out.println("Gooooooooooooooooood");
+	}
+
 }
