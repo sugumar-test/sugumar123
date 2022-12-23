@@ -27,9 +27,8 @@ public class ArmstrongNumber {
 		ArmstrongNumber num = new ArmstrongNumber();
 		num.checkNumberISArmstrong();
 	}
-	
-	public static void ptr() {
-		System.out.println("----------------");
-	}
 
+	private void met() {
+System.out.println("super");
+	}
 }
