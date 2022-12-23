@@ -31,5 +31,9 @@ public class ArmstrongNumber {
 	public static void ptr() {
 		System.out.println("----------------");
 	}
+	
+	public static void good() {
+		System.out.println("Gooooooooooooooooood");
+	}
 
 }
